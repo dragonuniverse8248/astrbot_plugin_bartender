@@ -1,0 +1,2 @@
+# astrbot_plugin_bartender
+基于astrbot聊天机器人和playwright无头浏览器库,对酒馆进行操作和交互,达成通过聊天机器人游玩酒馆
